@@ -33,7 +33,12 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 # moto
 DOMAIN-SUFFIX,hhc-group.com.cn
+DOMAIN-SUFFIX,hhc.com.cn
+DOMAIN-SUFFIX,hhc.com
 DOMAIN-SUFFIX,motomotionfurniture.com
+DOMAIN-SUFFIX,motosleep.com
+DOMAIN-SUFFIX,motomotion.com.vn
+DOMAIN-SUFFIX,hhcgroup.cn
 
 # 360
 DOMAIN-SUFFIX,360.com
